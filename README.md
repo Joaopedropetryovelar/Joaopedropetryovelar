@@ -1,4 +1,4 @@
-OLÁ!!! ME CHAMO JOÃO PEDRO PETRY.
+OLÁ!!! ME CHAMO JOÃO PEDRO.
 
 Sou estudante do curso Técnico em Informática na SATC. Apaixonado por tecnologia, estou sempre em busca de aprender mais sobre programação, redes, hardware e desenvolvimento web. Atualmente focado em construir projetos práticos e desenvolver minhas habilidades para o mercado de TI.
 
