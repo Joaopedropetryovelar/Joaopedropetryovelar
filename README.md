@@ -1,6 +1,6 @@
 OLÁ!!! ME CHAMO JOÃO PEDRO.
 
-Sou estudante do curso Técnico em Informática na SATC. Apaixonado por tecnologia, estou sempre em busca de aprender mais sobre programação, redes, hardware e desenvolvimento web. Atualmente focado em construir projetos práticos e desenvolver minhas habilidades para o mercado de TI.
+sou estudante do Técnico em Informática na SATC. Sou apaixonado por tecnologia e estou sempre buscando aprender mais sobre programação e desenvolvimento de software. Atualmente, foco em projetos práticos e também realizo um curso de Java na Udemy para aprimorar minhas habilidades na área de TI.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaopedropetryovelar&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedropetryovelar&hide_progress=true)
